@@ -2,10 +2,8 @@
 
 **Welcome to Sydney Halk's website!**
 
-## *Sydney Halk is a current senior at Quinnipiac University studying computer science and graphic design. She is currently in the market for a job, so this website will showcase her skills.*
+# About Sydney Halk
+[Go to Sydney's About Page](https://sahalk903.github.io/AboutSydney)
 
-# Sydney Halk's Skills
-[Sydney's Skills] (https://sahalk903.github.io/skills.md)
-Click [here] (https://sahalk903.github.io/skills.md) to go to Sydney's Skills.
-
-# Sydney Halk's Previous Work Experience
+# Sydney Halk's Previous Projects
+[Go to Sydney's Project Page](https://sahalk903.github.io/Projects)

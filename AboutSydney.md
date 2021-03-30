@@ -1,3 +1,28 @@
+## About Sydney
+
+# I am a current senior at Quinnipiac University which is located in Hamden, CT. I am currently studying Computer Science and Graphic Design. I grew up in Pawling, New York on a farm and love the outdoors!
+
+Here's some images of my love for my animals!
+![Horse Back Riding](horse.jpg)
+
+# Skills
+
+## Coding Skills
+1. Java
+2. Python
+3. C++
+4. HTML
+5. CSS
+6. SQL
+
+## Computer Skills
+1. Microsoft Office 365
+2. Adobe Creative Cloud
+3. Peachtree accounting software
+
+## Interests
+Horse Back Riding, Cooking, Hiking
+
 # Previous Work Experience
 
 ## Cornell Cooperative Extension, Brewster, NY Summer Internship, May 2020 - August 2020
