@@ -1,6 +1,6 @@
 ## **About Sydney**
 
-# I am a current senior at Quinnipiac University which is located in Hamden, CT. I am currently studying Computer Science and Graphic Design. I grew up in Pawling, New York on a farm and love the outdoors!
+## I am a current senior at Quinnipiac University which is located in Hamden, CT. I am currently studying Computer Science and Graphic Design. I grew up in Pawling, New York on a farm and love the outdoors!
 
 ![Sydney](sydney.jpg)
 Here's some images of my love for my animals!

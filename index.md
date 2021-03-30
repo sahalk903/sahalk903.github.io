@@ -2,7 +2,7 @@
 
 **Welcome to Sydney Halk's website!**
 
-## This website showcases Sydney Halk's progression of her studies with computer science and graphic design. 
+## This website showcases the progression of my studies with computer science and graphic design.  
 
 # About Sydney Halk
 [Go to Sydney's About Page](https://sahalk903.github.io/AboutSydney)
