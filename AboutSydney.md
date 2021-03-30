@@ -5,6 +5,7 @@
 ![Sydney](sydney.jpg)
 Here's some images of my love for my animals!
 ![Horse Back Riding](horse.jpg)
+![My Dog Jojo](dog.jpg)
 
 # **Skills:**
 
